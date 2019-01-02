@@ -8,6 +8,6 @@ public class add {
     }
 
     public int add(){
-        return (a+ b);
+        return (a+b);
     }
 }
