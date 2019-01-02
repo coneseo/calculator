@@ -1,6 +1,11 @@
 public class Minus {
-    int num = 0;
+    private int a;
+    ptivate int b;
+    
     public Minus(int a, int b) {
-        num = a - b;
+       this.a = a;
+       this.b  = b;
     }
+    public int minus(){
+        return (a - b);
 }
